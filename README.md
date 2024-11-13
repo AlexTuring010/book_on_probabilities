@@ -30,4 +30,4 @@ This book reflects my commitment to our university community, and I hope it show
 
 ## 📥 How to Access
 
-[Download or view the PDF directly](https://github.com/AlexTuring010/book_on_probabilities/raw/main/probabilities_book.pdf) to get started with the presentation!
+[Right-click here and select "Save Link As"](https://github.com/AlexTuring010/book_on_probabilities/raw/main/probabilities_book.pdf) to download the PDF directly.
