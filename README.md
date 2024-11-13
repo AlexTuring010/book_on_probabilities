@@ -27,7 +27,3 @@ This project was a significant learning experience for me, not only in terms of 
 ## 📌 Acknowledgments and Purpose
 
 This book reflects my commitment to our university community, and I hope it shows my knowledge of probability and my dedication to creating educational resources that make learning more approachable. I also want to acknowledge that I could not have completed this project without the guidance from our professors and the discussions in class.
-
-## 📥 How to Access
-
-This: [Download or view the PDF directly]([https://github.com/AlexTuring010/book_on_probabilities/raw/main/probabilities_book.pdf](https://github.com/AlexTuring010/book_on_probabilities/blob/main/probabilities_book.pdf)) to get started with the presentation!
